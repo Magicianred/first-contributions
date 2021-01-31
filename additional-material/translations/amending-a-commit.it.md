@@ -1,6 +1,6 @@
 # Modifica di un commit (amend)
 
-Cosa fare se invii una modifica al tuo repository remoto e ti accorgi solo dopo di un error nel messaggio di commit o di aver dimenticato di aggiungere una linea nel tuo commit più recente?  
+Cosa fare se invii una modifica al tuo repository remoto e ti accorgi solo dopo di un errore nel messaggio di commit o di aver dimenticato di aggiungere una linea nel tuo commit più recente?  
 Come correggere? Questo è quanto spiegato in questo tutorial.  
 
 ## Modifica di un messaggio di commit recente dopo aver effettuato il push su GitHub.  
